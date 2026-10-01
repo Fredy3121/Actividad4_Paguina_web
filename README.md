@@ -58,10 +58,10 @@ A continuación se muestra el portafolio funcionando en el navegador web:
 
 ### 1. Sección de Inicio y Sobre mí
 
-![Inicio y Sobre mí](portafolio/assets/img/captura1.png)
+![Inicio y Sobre mí](assets/img/captura1.png)
 
 ### 2. Habilidades Técnicas y resumen
-![Habilidades y Resumen](portafolio/assets/img/captura2.png)
+![Habilidades y Resumen](assets/img/captura2.png)
 
 ### 3. Servicios Ofrecidos y Ubicación (Contacto)
-![Servicios y Contacto](portafolio/assets/img/captura3.png)
+![Servicios y Contacto](assets/img/captura3.png)
